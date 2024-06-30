@@ -1,0 +1,66 @@
+====== Comment contribuer ======
+
+Cette page est encore en cours d'élaboration. Cette page est là pour rassembler des idées sur la façon dont les articles ou les sections peuvent s'organiser ainsi que de donner des conseils sur ce que l'on peut faire pour contribuer à l'amélioration de ce wiki.
+
+==== Comment nous collaborons ====
+
+Afin de coordonner notre travail sur ce wiki, nous avons maintenant une salle **Matrix** : \\
+\\ 
+**[[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]**\\
+\\
+Rejoignez-nous, discutez et contribuez !
+==== Comment commencer ====
+Que faire ? Comment aider ?  
+
+=== Option 1 : S'inscrire et rédiger des articles ===
+
+La première étape consiste à créer un compte sur ce wiki. Pour ce faire, veuillez procéder comme suit :
+
+  * Cliquez sur [[https://opensource.radio/doku.php/start?do=register|register]]
+  * Entrez votre nom d'utilisateur, votre nom, votre adresse e-mail et résolvez le captcha.
+  * Si vous avez un **indicatif**, veuillez l'utiliser comme nom d'utilisateur
+  * Vous recevrez alors un e-mail avec votre mot de passe
+  * Connectez-vous au wiki avec votre indicatif et votre mot de passe.
+  * Envisagez de changer votre mot de passe.
+
+Ensuite, vous êtes libre de faire ce qui suit :
+
+  * corriger les erreurs dans le contenu existant
+  * Créer un nouveau contenu
+  * Élargir le contenu existant
+  * Créer un logo plus agréable
+  * Créer/trouver un thème/un modèle plus agréable
+
+
+N'ayez pas peur de faire des erreurs. Il s'agit d'un wiki où vous pouvez annuler les modifications apportées aux pages. Nous effectuons également des sauvegardes régulières.
+
+
+=== Option 2 : Envoyer des articles/projets/etc. ===
+
+Si vous ne souhaitez pas vous inscrire mais que vous voulez tout de même contribuer, aucun problème : il vous suffit d'envoyer un **d'envoyer un e-mail** à <submissions@opensource.radio> avec vos **commentaires, ajouts, ou corrections**. Je les accepterai et les intégrerai volontiers.
+
+==== Limites / Règles ====
+
+S'il vous plaît - bien sûr - n'ajoutez pas de contenu illégal et/ou au ressources protégés par des droits d'auteur. Je ne saurais pas le dire autrement, car je ne suis pas juriste, mais je vous prie de vous en tenir aux règles générales. En outre, je vous demande de ne pas éditer les deux pages "Mentions légales" et "Confidentialité", car il s'agit de pages légalement nécessaires qui ne concernent que la personne responsable de cette page et de son contenu.\\
+\\
+En résumé, je vous demande de ne rien publier qui entre dans les catégories suivantes :
+  * contenu sexuel
+  * religion
+  * politique
+  * contenu inhumain
+  * contenu diffamatoire
+  * et généralement tout ce dont votre mère aurait honte si elle en avait connaissance.
+
+==== Manuel ====
+
+Ce site web est basé sur Dokuwiki. Veuillez lire leur [[https://www.dokuwiki.org/fr:manual|manuel]] et en particulier le chapitre [[https://www.dokuwiki.org/fr:wiki:syntax|syntaxe de mise en page]].
+
+==== FAQ ====
+
+  * **Q : Où est hébergé ce wiki ?**
+    * **A :** Ce wiki tourne sur un serveur OpenBSD situé dans un centre de données à Vienne, en Autriche.
+  * **Q : Pourquoi y a-t-il une page "Privacy" et "Impressum" en allemand et qu'est-ce que cela signifie ?**
+    * **A :** En tant que citoyen allemand et exploitant d'un site web, je suis tenu de publier des mentions légales et une politique de confidentialité. Si je ne le fais pas, je risque une lourde amende.
+  * **Q : Pourquoi me demandez-vous mon indicatif et mon nom ? Je souhaite rester anonyme**
+    * **A :** Bien que l'anonymat soit justifié et important dans de nombreux domaines, en tant qu'opérateur du site, je suis responsable de son contenu. Un indicatif et un nom clair aident de nombreuses personnes à se comporter comme des êtres humains dignes de ce nom. Si vous souhaitez participer de manière anonyme, veuillez envoyer votre contenu par courrier électronique.
+

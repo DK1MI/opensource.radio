@@ -1,0 +1,8 @@
+====== Satellite Operation ======
+
+<mobiletable>
+^ Name                                                    ^ Description                                                                                                                                                                                   ^ Language  ^ License  ^ Platform  ^
+| [[https://github.com/csete/gpredict|Gpredict]]          | Gpredict is a real time satellite tracking and orbit prediction program for the Linux desktop. It uses the SGP4/SDP4 propagation algorithms together with NORAD two-line element sets (TLE).  | C         | GPLv2    | Linux     |
+| [[https://github.com/rt-bishop/Look4Sat|Look4Sat]]      | Radio satellite tracker and pass predictor for Android, inspired by Gpredict                                                                                                                  | Kotlin    | GPLv3    | Android   |
+| [[https://github.com/davecrump/portsdown4|PortsDown4]]  | Portsdown 4 for the Raspberry Pi 4 with the official Raspberry Pi 7 inch touch screen. Digital Amateur TV Tansmitter and Receiver as used on QO-100.                                          | C         | GPLv3    | Linux     |
+</mobiletable>

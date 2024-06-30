@@ -1,0 +1,66 @@
+====== How to Contribute ======
+
+This page is still work in progress. The idea of this page is to collect ideas how single articles or sections can look like and to give hints on what one can do to help making this wiki better.
+
+==== How we collaborate ====
+
+In order to coordinate our work on this wiki, we now have a **Matrix** room: \\
+\\ 
+**[[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]**\\
+\\
+Please join, chat and contribute!
+==== How to start ====
+What can I do? How can I help?  
+
+=== Option 1: Register and write articles ===
+
+The first step is to create an account here on the wiki. To do so, please do the following:
+
+  * Click on [[https://opensource.radio/doku.php/start?do=register|register]]
+  * Enter your desired user name, name, mail address and solve the captcha
+  * If you have a **call sign**, please use it as your user name
+  * You will receive an email with your password
+  * Log into the wiki with your call sign and password
+  * Consider changing your password to a new one
+
+Afterwards, you are free to do the following:
+
+  * Correct errors in existing content
+  * Create new content
+  * Extend existing content
+  * Create a nicer logo
+  * Create/find a nicer theme/template
+
+
+Don't be afraid to make mistakes. This is a wiki where you can undo edits to pages. We also do regular backups.
+
+
+=== Option 2: Send in articles/projects/etc. ===
+
+If you don't want to register but still want to contribute, that's no problem: just **send an e-mail** to <submissions@opensource.radio> with your **comments, additions or corrections**. I will then accept and incorporate them with great gratitude.
+
+==== Limitations / Rules ====
+
+Please - of course - do not contribute illegal content and/or copyrighted material. I don't know how to express myself better, as I'm not a lawyer, but please just stick to the general rules. Furthermore, I ask you not to edit the two pages "Imprint" and "Privacy", as these are legally necessary pages that only concern the person who is responsible for this page and its contents.\\
+\\
+To sum it up, please don't publish anything that falls into the following categories:
+  * sexual content
+  * religion
+  * politics
+  * inhuman content
+  * defamatory content
+  * and generally everything your mum would be ashamed of if she knew about it
+
+==== Manual ====
+
+This website is based on Dokuwiki. Please read their [[https://www.dokuwiki.org/manual|manual]] and especially the chapter [[https://www.dokuwiki.org/wiki:syntax|syntax]].
+
+==== FAQ ====
+
+  * **Q: Where is this wiki hosted?**
+    * **A:** This wiki runs on an OpenBSD server located in a data center in Vienna, Austria
+  * **Q: Why is there a "Privacy" and "Impressum" page in german language and what does it mean?**
+    * **A:** As a German citizen and website operator, i am obliged to publish both an imprint and a privacy policy. Failure to do so could cost me a heavy fine.
+  * **Q: Why are you asking me for my call sign and name? I would like to stay anonymous**
+    * **A:** Although anonymity is right and important in many areas, as the operator of the site i have the problem of being responsible for its content. A call sign and clear name helps many people to behave like proper human beings. If you want to participate anonymously, please send your content by e-mail.
+

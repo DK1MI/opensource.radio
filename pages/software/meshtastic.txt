@@ -1,0 +1,14 @@
+====== Meshtastic ======
+
+Meshtastic® is a project that lets you use inexpensive LoRa radios as a long range off-grid communicator for areas without reliable cellular service. These radios are great for hiking, skiing, paragliding - essentially any hobby where you don't have reliable internet access. Each member of the mesh can send and view text messages and enable optional GPS based location features.
+
+The radios automatically create a mesh to forward packets as needed, so everyone in the group can receive messages from even the furthest member. The radios will optionally work with your phone, but no phone is required.
+^ Project Name                                                                    ^ Description                                                                                           ^ Language                           ^ Licence  ^ Platform                       ^
+| [[https://meshtastic.org/downloads/|Meshtastic Firmware Download]]              | Official Meshtastic Firmware Download Site                                                            | C                                  | GPL-3.0  | ESP32/Rak/LillyGo/RaspberryPi  |
+| [[https://github.com/meshtastic/artifacts/tree/docs|Meshtastic Documentation]]  | Meshtastic Documenttion                                                                               | Official Meshtastic Documentation  | GPL-3.0  | ESP32/Rak/LillyGo/RaspberryPi  |
+| [[https://github.com/meshtastic|Meshtastic Source Code]]                        | Meshtastic Github Source Code Repository                                                              | C/Python                           | GPL-3.0  | ESP32/Rak/LillyGo/RaspberryPi  |
+| [[https://github.com/meshtastic/artifacts/tree/docs|Meshtastic Artifacts]]      | Artifacts repository for Meshtastic software builds from pull-requests and other non-release sources  | C/Python                           | GPL-3.0  | ESP32/Rak/LillyGo/RaspberryPi  |
+
+**To Do**
+
+Add information for GPS/Sensors etc.

@@ -1,0 +1,15 @@
+====== Ham Radio Amplifiers ======
+
+==== HF Amplifiers ====
+
+<mobiletable>
+^Project Name^Description^License^
+|**[[https://k6jca.blogspot.com/2019/12/a-500-watt-hf-pa-part-1-overview.html|K6JCA 500W HF Amplifier]]**|-|-|
+|**[[https://github.com/DRWJSCHMIDT/T41/tree/main/K9HZ_20W_PA|K9HZ 20W HF Amplifier]]**|A virtually indestructible 20 amplifier for 1.8MHz to 54Mhz. Input power 1mW, output 10W or 15W RMS min, 20W PEP.|public domain|
+|**[[https://github.com/kholia/HF-PA-v10|HF PA v10]]**|Open Source 10W HF Amp|-|
+
+</mobiletable>
+
+==== Notes ====
+
+Lots of HF Amps listed here: http://www.pg1n.nl/articles.php?lng=en&pg=94

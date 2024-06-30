@@ -1,0 +1,7 @@
+====== QO100 Stations ======
+
+
+  * [[https://f6kgl-f5kff.fr/2024/05/09/sat/|F6KGL/F5KFF project]]
+  * [[https://wiki.batc.org.uk/Es%27hail-2_Ground_Station|British Amateur Television Club Ground Station]]
+  * [[~:PlutoPlus|A typical Pluto+ Setup]]
+  * [[https://m0aws.co.uk/?p=3105|Icom IC-705 based Full Duplex QO-100 Satellite Ground Station]]

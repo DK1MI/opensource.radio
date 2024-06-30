@@ -1,0 +1,14 @@
+====== APRS Software ======
+
+APRS (Automatic Packet Reporting System) software is used for tracking, mapping or messaging in amateur radio. Here are some notable open-source applications:
+
+<mobiletable>
+^Project Name^Description^Language^License^Platform^
+|**[[https://xastir.org/|Xastir]]**|A comprehensive APRS client with a wide range of features.|C|?|Linux|
+|**[[https://www.pinpointaprs.com/|Pinpoint APRS]]**|is free software that allows you to visually track and communicate with people using Amateur Radio (”Ham Radio”) equipment.|C#|?|Windows|
+|**[[https://github.com/wb2osz/direwolf|Dire Wolf]]**|A software "soundcard" modem/TNC and APRS encoder/decoder.|C|GPLv2|Linux|
+|**[[https://www.cantab.net/users/john.wiseman/Documents/InstallingLINBPQ.htm|LINBPQ]]** | a Linux version of the BPQ32 Node,  BBS and Chat Server component.|C|?|Linux|
+|**[[https://www.ka2ddo.org/ka2ddo/YAAC.html|YACC]]**|"Yet Another APRS Client" is a (mostly) platform-independent Java application written by Andrew Pavlin, KA2DDO.|Java|LGPLv3|Linux,Mac, Windows|
+|**[[https://thelifeofkenneth.com/aprx/|Aprx Digipeater Software]]**|Aprx is a software package designed to run on any POSIX platform (Linux/BSD/Unix/etc.) and act as an APRS Digipeater and/or Internet Gateway. Aprx is able to support most APRS infrastructure deployments, including single stand-alone digipeaters, receive-only Internet gateways, full RF-gateways for bi-directional routing of traffic, and multi-port digipeaters operating on multiple channels or with multiple directional transceivers.|C|?|Linux/UNIX|
+|**[[https://aprsdroid.org/|APRSdroid]]**|Android APRS client with support for APRS-IS, AFSK audio modem, and Bluetooth/USB serial TNCs|Scala|GPLv2|Android|
+</mobiletable>

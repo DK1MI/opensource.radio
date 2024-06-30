@@ -1,0 +1,14 @@
+====== Contributors ======
+
+The following is a list of all contributors sorted by registration date:
+
+^ User Name  ^ Full Name         ^ Joined      ^
+| DK1MI      | Michael Clemens   | 2024-05-17  |
+| DJ5CW      | Fabian Kurz       | 2024-05-17  |
+| GM5ALX     | Alex Johnstone    | 2024-05-18  |
+| F4JXQ      | Loïc Fejoz        | 2024-05-18  |
+| M0AWS      | Mike Tatum        | 2024-05-19  |
+| G8HCK      | Andy Rutter       | 2024-05-19  |
+| N8DMT      | Gary Mastenbrook  | 2024-05-19  |
+| G7KSE      | Alex Hill         | 2024-05-20  |
+| KC1GDW     | Adam Goldsmith    | 2024-05-20  |

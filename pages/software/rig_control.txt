@@ -1,0 +1,22 @@
+====== Rig Control ======
+
+Rig control refers to the capability of remotely controlling a transceiver (the "rig") using a computer. The following is a selection of open source rig control software:
+
+==== Rig Control ====
+
+<mobiletable>
+^ Project Name                                                          ^ Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^ Language  ^ License                     ^ Platform       ^
+| **[[http://www.w1hkj.com/flrig-help/|flrig]]**                        | Flrig is a graphical ham radio transceiver control program designed to be used either stand-alone or as an adjunct to fldigi                                                                                                                                                                                                                                                                                                                                                                                                                    | C         | ?                           | Mac/Win/Linux  |
+| **[[https://github.com/Hamlib/Hamlib|hamlib]]**                       | The Hamlib project's purpose is to develop flexible and portable shared libraries that offer a standardized API to control any radio oriented equipment through a computer interface.                                                                                                                                                                                                                                                                                                                                                           | C         | ?                           | Linux          |
+| **[[https://groundstation.sourceforge.net/grig/|GNOME RIG / Grig]]**  | Grig is a simple Ham Radio control (CAT) program based on the Ham Radio Control Libraries (Hamlib). It is intended to be highly generic presenting the user to the same graphical user interface regardless of which radio is being controlled. Grig supports the most commonly used CAT commands that are implemented by Hamlib, and integrates well with other ham radio programs like Xlog and gMFSK. Thanks to Hamlib, grig works with most CAT-capable amateur radios. You can check out the Supported Radios page at the Hamlib website.  | C         | GPL                         | Linux          |
+| **[[https://github.com/VE3NEA/OmniRig|OmniRig]]**                     | A COM component for transceiver/receiver CAT control. Features: multi-threading (multiple programs, written by different authors in different languages, can control the radio via Omni-Rig at the same time); external rig description files (the support of a new rig model can be implemented just by creating an ini file that describes the CAT commands of the radio)                                                                                                                                                                     | PASCAL    | Mozilla Public License 2.0  | Windows        |
+
+</mobiletable>
+
+==== Rig Control Addon & Specialized Rig Control  ====
+
+<mobiletable>
+^Project Name^Description^Language^License^Platform^
+|**[[https://github.com/cniesen/IcomClockOmniRig|IcomClockOmniRig]]**|Windows command line program for setting the internal clock of the Icom tranceivers like IC-7300, IC-7100 and IC-R8600 via OmniRig.|C#|GPL-3.0|Windows|
+|**[[https://github.com/cniesen/IC-7300-time-sync|Icom IC-7300 Time Synchronization]]**|Python3 script to set the clock of the Icom IC-7300 radio to the current time of the computer.|Python|GPL-3.0|Windows, Mac, Linux|
+</mobiletable>

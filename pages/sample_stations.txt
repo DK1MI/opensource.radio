@@ -1,0 +1,7 @@
+====== Sample Stations ======
+
+The amateur radio stations described below are intended to serve as suggestions for building your own station or to show how individual open source projects can be combined with each other:
+
+  * [[sample_stations:hf_sdr_stations|Software Defined Radio (SDR) based HF Stations]]
+  * [[sample_stations:qo100_stations|QO100 Stations]]
+  * [[sample_stations:sdr_repeaters|Software Defined Radio (SDR) based repeaters]]

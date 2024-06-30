@@ -1,0 +1,32 @@
+====== L'Open Source dans la radio amateur ======
+
+Bienvenue sur le wiki Open Source en radioamateurisme ! Cette ressource est dédiée à la fourniture d'informations sur les **les logiciels libres** et du **matériel** ainsi que **projets maison gratuits** pour les radioamateurs. L'idée de ce site web ou wiki est de donner à un (futur) radioamateur une vue d'ensemble de tous les projets open source disponibles. L'objectif est de promouvoir l'utilisation de logiciels et de matériel open source dans le domaine de la radio amateur. En fonction des besoins personnels, il est désormais possible de mettre en place une station de radio amateur dont les principaux composants sont open source.
+
+<box 100% round green|**Help!**> 
+Ce wiki ne peut être rempli et entretenu par une seule personne, c'est pourquoi j'appelle les gens à **s'inscrire** sur le wiki afin de **corriger des erreurs, ajouter des informations, traduire des articles et/ou créer de nouveaux contenus**.
+\\
+\\
+Pour plus d'informations, veuillez consulter le site [[howto_contribute|Comment contribuer]] pour plus d'informations.
+\\
+\\
+N'hésitez pas non plus à rejoindre notre **salle Matrix**: [[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]
+</box>
+
+==== Contenu ====
+
+Vous trouverez ci-dessous et dans la barre latérale de gauche une liste des principales catégories, qui vous conduiront aux articles proprement dits :
+
+
+<nspages software -h1 -simpleList -textPages="Software" -actualTitle=4>
+
+
+<nspages hardware -h1 -simpleList -textPages="Hardware" -actualTitle=4>
+
+
+<nspages sample_stations -h1 -simpleList -textPages="Sample Stations" -actualTitle=4>
+
+
+=== Idées de contenu supplémentaire ===
+
+  * Collections de scripts/fonctions/codes, par exemple pour Node Red ou GNU Radio
+  * Miroir de documents liés à la création maison afin de les préserver pour l'avenir.

@@ -1,0 +1,33 @@
+====== Typical Pluto+ Setup ======
+
+Two common QO-100 setups are via a Pluto+ (or Adalm Pluto, but if you're buying one specifically you might as well get a the Pluto+) or via up/down converters using a 2/70cm SSB capable radio, e.g. IC-705 together with a SDR reciever. 
+
+This diagram has my callsign on it, but it's not my design, I just drew it. Also includes my estimates of the power. In operation I've found I'm at 85% in SDR console, which I think is circa 10-12W out, and I'm similar signal strength to the centre beacon. I've spoken to others with 1.2-1.8m dishes and they use 2-5W. 
+
+{{ :sample_stations:qo100_stations:qo100-blockdiagram.png?direct |}}
+
+
+===== Bill of Materials =====
+
+This is based in UK in 2023. Some optimisation possible. Dish/coax is probably overpriced.
+
+^Part^Store^Price inc. shipping^
+|Pluto+ SDR|Aliexpress|£201|
+|CN-0417 pre-amp|Digikey|£43|
+|SG Labs 20W PA|SG Labs|€147|
+|2.4 GHz helix antenna|[[https://nolle.engineering/en/ice-cone-feed/|nolle engineering]]|€126|
+|80cm dish, mount, RX cable|Satellite Super Store|£108|
+|Bullseye LNB|Amazon|£31|
+|Biased tee|Amazon|£24|
+|[[https://www.ebay.co.uk/itm/193727621572|12V/5V DC-DC converter]]|eBay|£4.90|
+|[[https://www.ebay.co.uk/itm/184179070285|12V/28V DC-DC converter]]|eBay|£7.45|
+|Power Supply (Meanwell 12V 5A 60W Power Supply (GST60A12)) and 10m cable|PiHut|£31|
+|TX Coax (LMR-400-UF) and fittings|Barenco|£65|
+|[[https://www.screwfix.com/p/hylec-ip65-weatherproof-outdoor-enclosure-200mm-x-130mm-x-300mm/2597g|Waterproof box]]|Screwfix|£40|
+
+
+
+===== Software =====
+
+If you run Windows you might as well use [[https://www.sdr-radio.com/console|SDR Console]], particularly for the geobeacon frequency locking. See their [[https://www.sdr-radio.com/EsHail-2|docs]]. However, as you're on [[:start|opensource.radio]] then you probably won't be running Windows LOL, so check out alternatives on [[software:sdr_software|here]].
+

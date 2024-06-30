@@ -1,0 +1,9 @@
+====== Alternative Firmwares for commercial HTs ======
+
+<mobiletable>
+^Project Name^Description^License^
+|[[https://openrtx.org|OpenRTX]]|Free and Open Source Firmware for Digital Ham Radios. Top-down designed with modularity, flexibility and performance in mind.|?|
+|[[https://www.opengd77.com/|OpenGD77]]|Amateur radio firmware for the GD-77, GD-77S, DM-1801, DM-1801A, RD-5R, MD-9600/RT-90, MD-UV380/RT-3S, DM-1701/RT-84 and MD2017/RT-82 radios|?|
+|[[https://github.com/egzumer/uv-k5-firmware-custom/|Egzumer]]|Community Firmware for the Quansheng UV-K5|?|
+|[[https://github.com/armel/uv-k5-firmware-custom|Armel F4HWN]]|Community Firmware for the Quansheng UV-K5|?|
+</mobiletable>

@@ -1,0 +1,66 @@
+====== Wie Sie beitragen können ======
+
+Diese Seite ist noch in Arbeit. Die Idee dieser Seite ist es, Ideen zu sammeln, wie einzelne Artikel oder Abschnitte aussehen können und Hinweise zu geben, was man tun kann, um dieses Wiki besser zu machen.
+
+==== Wie wir zusammenarbeiten ====
+
+Um unsere Arbeit an diesem Wiki zu koordinieren, haben wir jetzt eine **Matrix** Raum: \\
+\\ 
+**[[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]**\\
+\\
+Bitte machen Sie mit, chatten Sie und tragen Sie bei!
+==== Wie fange ich an? ====
+Was kann ich tun? Wie kann ich helfen?  
+
+=== Option 1: Registrieren und Artikel schreiben ===
+
+Der erste Schritt besteht darin, ein Konto hier im Wiki zu erstellen. Dazu gehen Sie bitte wie folgt vor:
+
+  * Klicken Sie auf [[https://opensource.radio/doku.php/start?do=register|register]]
+  * Geben Sie Ihren gewünschten Benutzernamen, Namen und Ihre Mailadresse ein und lösen Sie das Captcha.
+  * Wenn Sie ein **Rufzeichen**verwenden Sie es bitte als Ihren Benutzernamen
+  * Sie erhalten eine E-Mail mit Ihrem Passwort
+  * Loggen Sie sich mit Ihrem Rufzeichen und Passwort in das Wiki ein.
+  * Ziehen Sie in Erwägung, Ihr Passwort zu ändern.
+
+Danach steht es Ihnen frei, Folgendes zu tun:
+
+  * Fehler in bestehenden Inhalten korrigieren
+  * Neue Inhalte erstellen
+  * Vorhandene Inhalte erweitern
+  * Ein schöneres Logo erstellen
+  * Ein schöneres Thema/Template erstellen/finden
+
+
+Haben Sie keine Angst, Fehler zu machen. Dies ist ein Wiki, in dem Sie Änderungen an Seiten rückgängig machen können. Wir machen auch regelmäßig Backups.
+
+
+=== Option 2: Artikel/Projekte/etc. einsenden ===
+
+Wenn Sie sich nicht registrieren, aber trotzdem einen Beitrag leisten wollen, ist das kein Problem: Senden Sie einfach **eine E-Mail senden** an <submissions@opensource.radio> mit Ihren **Kommentaren, Ergänzungen oder Korrekturen**. Ich werde sie dann mit großer Dankbarkeit annehmen und einarbeiten.
+
+==== Beschränkungen / Regeln ====
+
+Bitte stellen Sie - natürlich - keine illegalen Inhalte und/oder urheberrechtlich geschütztes Material ein. Ich weiß nicht, wie ich mich besser ausdrücken kann, da ich kein Jurist bin, aber bitte halten Sie sich einfach an die allgemeinen Regeln. Außerdem bitte ich Sie, die beiden Seiten "Impressum" und "Datenschutz" nicht zu bearbeiten, da es sich hierbei um rechtlich notwendige Seiten handelt, die nur die Person betreffen, die für diese Seite und deren Inhalte verantwortlich ist.\\
+\\
+Zusammenfassend kann man sagen, dass Sie bitte nichts veröffentlichen, was in die folgenden Kategorien fällt:
+  * sexuelle Inhalte
+  * Religion
+  * Politik
+  * menschenverachtende Inhalte
+  * verleumderische Inhalte
+  * und generell alles, wofür sich deine Mutter schämen würde, wenn sie es wüsste
+
+==== Handbuch ====
+
+Diese Website basiert auf Dokuwiki. Bitte lesen Sie deren [[https://www.dokuwiki.org/manual|manual]] und insbesondere das Kapitel [[https://www.dokuwiki.org/wiki:syntax|syntax]].
+
+==== FAQ ====
+
+  * **F: Wo wird dieses Wiki gehostet?**
+    * **A:** Dieses Wiki läuft auf einem OpenBSD-Server in einem Rechenzentrum in Wien, Österreich
+  * **Q: Warum gibt es eine "Datenschutz" und "Impressum" Seite in deutscher Sprache und was bedeutet das?**
+    * **A:** Als deutscher Staatsbürger und Website-Betreiber bin ich verpflichtet, sowohl ein Impressum als auch eine Datenschutzerklärung zu veröffentlichen. Wenn ich das nicht tue, kann ich mit einer hohen Geldstrafe belegt werden.
+  * **F: Warum fragen Sie mich nach meinem Rufzeichen und Namen? Ich möchte gerne anonym bleiben**
+    * **A:** Obwohl Anonymität in vielen Bereichen richtig und wichtig ist, habe ich als Betreiber der Seite das Problem, dass ich für deren Inhalt verantwortlich bin. Ein Rufzeichen und ein Klarname helfen vielen Leuten, sich wie richtige Menschen zu verhalten. Wenn Sie sich anonym beteiligen wollen, senden Sie Ihre Inhalte bitte per E-Mail.
+

@@ -1,0 +1,32 @@
+====== Open Source in Amateur Radio ======
+
+Welcome to the Open Source in Amateur Radio wiki! This resource is dedicated to providing information about **open-source software** and **hardware** as well as **free home-brew projects** for amateur radio enthusiasts. The idea of this website or wiki is to give a (future) radio amateur an overview of all available open source projects. The aim is to promote the use of open source software and hardware in amateur radio. Depending on personal requirements, it is now possible to set up an amateur radio station whose main components are open source.
+
+<box 100% round green|**Help!**> 
+This wiki cannot be filled and maintained by one person alone, which is why I call on people to **register** on the wiki in order to **correct errors, add information, translate articles and/or create new content**.
+\\
+\\
+Please visit [[:howto_contribute|How to contribute]] for further information.
+\\
+\\
+Please also consider joining our **Matrix room**: [[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]
+</box>
+
+==== Content ====
+
+Below and in the sidebar to the left you will find a list of the main categories, which will take you to the actual articles:
+
+
+<nspages software -h1 -simpleList -textPages="Software" -actualTitle=4>
+
+
+<nspages hardware -h1 -simpleList -textPages="Hardware" -actualTitle=4>
+
+
+<nspages sample_stations -h1 -simpleList -textPages="Sample Stations" -actualTitle=4>
+
+
+=== Ideas for more content ===
+
+  * Collections of scripts/functions/code e.g. for Node Red or GNU Radio
+  * Mirroring of home-brew related documents to preserve it for the future

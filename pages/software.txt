@@ -1,0 +1,5 @@
+====== Software Projects ======
+
+Below are the categories of open-source software commonly used in amateur radio.
+
+<nspages software -h1 -simpleList -textPages="">

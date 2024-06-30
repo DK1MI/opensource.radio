@@ -1,0 +1,8 @@
+====== Antenna Rotator Controller ======
+
+<mobiletable>
+^Project Name^Description^License^
+|[[https://blog.radioartisan.com/arduino_rotator_controller/|The K3NG Arduino Rotator Controller]]|Arduino-based rotator interface that interfaces a computer to a rotator or rotator controller, emulating the Yaesu GS-232A/B, Easycom, and DCU-1 protocols which are supported by a myriad of logging, contest, and control programs. |?|
+|[[https://github.com/dh1tw/remoteRotator|RemoteRotator]]|a command line application that makes your azimuth / elevation antenna rotators available on the network. It is available for Linux/Windows/MacOS and is written in the programming language Go.|?|
+|[[https://dk1mi.radio/remote-control-hygain-antenna-rotator/|HyGain IR Controller]]|Remote Control for the Hy-Gain AR-500X Antenna Rotator via infrared|?|
+</mobiletable>

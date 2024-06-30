@@ -1,0 +1,9 @@
+====== Operating Systems ======
+
+Specialized operating systems for amateur radio come pre-loaded with useful tools and applications. Here are some popular open-source distributions:
+
+<mobiletable>
+^Project Name^Description^Language^License^
+|[[http://www.pistar.uk/|Pi-Star]]|A Raspberry Pi image for digital voice communications like D-STAR, DMR, and System Fusion|?|?|
+|[[https://github.com/dslotter/HamPi|HamPi]]|A Raspberry Pi image with pre-installed amateur radio software, based on Raspbian.|?|?|
+</mobiletable>

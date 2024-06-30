@@ -1,0 +1,7 @@
+====== Radio Programming Software ======
+
+<mobiletable>
+^ Name                                                         ^ Description                                                                                                                                                                                           ^ Language  ^ License  ^ Platform       ^
+| [[https://chirpmyradio.com/projects/chirp/wiki/Home|CHIRP]]  | CHIRP is a free, open-source tool for programming your radio. It supports a large number of manufacturers and models, as well as provides a way to interface with multiple data sources and formats.  | Python    | ?        | Win/Mac/Linux  |
+| [[https://dm3mat.darc.de/qdmr/|qdmr]]                        | qdmr by DM3MAT is a free, opensource tool for programming codeplugs for dmr radios like Anytone                                                                                                       | C         | GPL      | Win/Mac/Linux  |
+</mobiletable>

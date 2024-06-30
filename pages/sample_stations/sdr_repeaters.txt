@@ -1,0 +1,8 @@
+====== SDR Repeaters ======
+
+
+New topic of SDR repeaters, including all-mode repeater (linear translator).
+
+Concepts for this category include using SDR RX and SDR TX elements with a simple control/interface function, where the RF stages are co-site located using one or more antennas with filter/diplexer functions. Depending upon local regulatory control requirements, the controller/interface function will range from simple to quite-complex, including ability to discern input signal presence and type (AM, FM, SSB, CW, Digital, etc.) and configure the repeater function accordingly.
+
+Other variations on this theme include split-site IP-networked repeaters (simplifying RF filtering/isolation requirements) but introducing other challenges/requirements on the system (including positive TX control/timeout/etc.). Half duplex and full duplex systems are possible depending upon achievable isolation in the as-built system.

@@ -1,0 +1,10 @@
+====== Hardware Projects ======
+
+The open-source hardware movement provides amateur radio operators with accessible and customizable tools. Below are the categories of open-source hardware commonly used in amateur radio.
+
+<nspages hardware -h1 -simpleList -textPages="">
+
+
+
+
+ 

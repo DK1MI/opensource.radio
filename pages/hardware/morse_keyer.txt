@@ -1,0 +1,8 @@
+====== Morse Code Keyer ======
+
+<mobiletable>
+^Project Name^Description^License^
+|[[https://github.com/k3ng/k3ng_cw_keyer|K3NG Arduino CW Keyer]]|The K3NG Keyer is an open source Arduino based CW (Morse Code) keyer with a lot of features and flexibility, rivaling commercial keyers which often cost significantly more. The code can be used with a full blown Arduino board or an AVR microcontroller chip can be programmed and used directly in a circuit. This keyer is suitable as a standalone keyer or for use permanently installed inside a rig, especially homebrew QRP rigs.|GPL3|
+|[[https://github.com/dilshan/usb-morse-keyer|USB Morse Keyer]]|a microcontroller based keyer|MIT|
+|[[https://github.com/ok1cdj/OpenCWKeyerMK2|OpenCWKeyerMK2]]|Hardware for K3NG Arduino keyer|?|
+</mobiletable>

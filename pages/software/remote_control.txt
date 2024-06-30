@@ -1,0 +1,4 @@
+====== Remote Control ======
+
+^Name^Description^Language^License^Platform^
+|[[https://wfview.org|wfview]]|wfview is a program developed by amateur radio enthusiasts to control modern Icom ham radios. wfview is free and open source software. wfview controls modern Icom rigs using either a USB serial connection or OEM network (ethernet or wifi) connection. Live, real-time spectrum analyzer data are displayed, and rig controls are presented. Additional programs may tie into the CIV bus using the pseudo-terminal device (linux and macOS), virtual serial port loopback (windows), or hamlib-compatible rigctld server.|C++|GPLv3|Win/Mac/Linux|

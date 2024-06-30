@@ -1,0 +1,6 @@
+====== SWR-/Powermeter ======
+
+<mobiletable>
+^ Project Name^ Description^ License  ^                                                                                                                                                                                                                                                                                                                                                                                       
+| [[https://dk1mi.radio/remote-power-meter/|Remote Power/SWR Meter]]         | This WT32/ESP32 based project, combined with a directional coupler setup, allows you to remotely monitor the output power and SWR of your station via a web browser.   | GPLv3    |                                                                                                                                                                                                                                                                                              
+</mobiletable>

@@ -1,0 +1,21 @@
+====== Transceivers ======
+
+The following is a (growing) list of open source amateur radio transceivers:
+
+<mobiletable>
+^Name / URL^Description^License^
+|[[http://www.hfsignals.com/index.php/ubitx/|uBitx]]|A general coverage HF transceiver kit, offering an affordable entry into amateur radio|-|
+|[[https://www.hfsignals.com/index.php/sbitx-v3/|sBitx]]|The sBitx is an open source, high performance Hybrid SDR for the 21st century radio amateurs. It is powered by an internal Raspberry Pi 4, it has CW/FT8/etc, logging software, macros, spotting  – all preconfigured and working out of the box.|-|
+|[[https://github.com/etherkit/OpenBeacon|OpenBeacon]]|A versatile open-source platform for various RF beacon applications. Not to be confused with https://www.openbeacon.org which is a IoT Bluetooth Low-Energy project|-|
+|[[https://github.com/pa3gsb/Radioberry-2.x|Radioberry 2.0]]|Ham radio cape for Raspberry PI. The radioberry is a radio card (raspberry pi hat), which can be plugged into a raspberry pi, forming a Software Defined Radio (SDR)|-|
+|[[https://greatscottgadgets.com/hackrf/|HackRF One]]|A wideband SDR platform for receiving and transmitting a wide range of frequencies|-|
+|[[https://www.redpitaya.com|Red Pitaya]]|A versatile platform for SDR and other applications, with open-source software support|-|
+|[[http://www.hermeslite.com|Hermes Lite 2]]|The Hermes-Lite is a low-cost direct down/up conversion software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project. It is entirely open source and open hardware, including the tools used for design and fabrication files. Over 500 Hermes-Lite 2.0 units have been successfully built|-|
+|[[https://dl2man.de|(tr)uSDX]]|The (tr)uSDX is a 5-Band / Mulitmode QRP Transceiver in Pocket Format (90x60x30mm – 140g). It features a highly efficient Class E PA and Supports CW/LSB/USB and AM/FM. It covers by default 80/60/40/30/20m. It is supplied with an OLED Display, onboard Mic, (tiny) onboard speaker and for improvised QSO onboard PTT Key can be used as emergency CW Key. Further on, the (tr)uSDX has a (Micro)USB CAT and Programming Interface, and while it produces typically 5W @ 13,8V Power Supply, it can create 0,5W Output from 5V USB Supply alone|-|
+|[[https://groups.io/g/SoftwareControlledHamRadio|T41-EP]], [[https://github.com/DRWJSCHMIDT/T41.git|hardware]]|T41-EP is a Software Defined Transceiver (SDT) using the Teensy 4.1. PCBs and software are available with outstanding support via groups.io. The latest version (V12) covers 630m through 2m with 20W out. A 100W PA is coming soon and a VHF/UHF add-on for up to 2.4GHz is in progress|-|
+|[[https://github.com/afiskon/hbr-mk2|HBR]]|A classic single IF superhet QRP transceiver for 80m - 10m. Opensource hardware and software|public domain|
+|[[https://www.n6qw.com/PSSST_20.html|PSSST]]|A simple low cost single band QRP transceiver by Pete Juliano. Kits are available for 15, 17 or 20m from Mostly DIY RF (https://mostlydiyrf.com/p3st/)|-|
+|[[https://github.com/frohro/SDR-TRX|SDR-TRX]]|This SDR is a prototype hardware platform to assist in developing a low-cost transceiver for digital modes (FT8, JSTcall, WSPR, CW, etc) that do not require linear amplification like SSB. This is designed for amateur radio enthusiasts who view their hobby as an avenue for experimenting, who like building things, and have an interest in HF radio propagation. The idea is to use a laptop and mainstream (actively maintained) existing software as the display and for the DSP needed.|-|
+
+
+</mobiletable>

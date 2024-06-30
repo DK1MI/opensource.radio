@@ -1,0 +1,32 @@
+====== Open Source im Amateurfunk ======
+
+Willkommen zum Open Source im Amateurfunk-Wiki! Diese Ressource dient der Bereitstellung von Informationen über **quelloffene Software** und **Hardware** sowie über **kostenlose Eigenbauprojekte** für Funkamateure. Die Idee dieser Website oder dieses Wikis ist es, einem (zukünftigen) Funkamateur einen Überblick über alle verfügbaren Open-Source-Projekte zu geben. Ziel ist es, den Einsatz von Open-Source-Software und -Hardware im Amateurfunk zu fördern. Je nach persönlichen Anforderungen ist es nun möglich, eine Amateurfunkstation aufzubauen, deren Hauptkomponenten Open Source sind.
+
+<box 100% round green|**Help!**> 
+Dieses Wiki kann nicht von einer Person allein befüllt und gepflegt werden, weshalb ich dazu aufrufe **zu registrieren.** im Wiki zu registrieren, um **Fehler zu korrigieren, Informationen hinzuzufügen, Artikel zu übersetzen und/oder neue Inhalte zu erstellen**.
+\\
+\\
+Bitte besuchen Sie [[howto_contribute|Wie Sie beitragen können]].
+\\
+\\
+Bitte erwägen Sie auch eine Mitgliedschaft in unserem **Matrix-Raum**: [[https://matrix.to/#/#opensource:matrix.m0aws.co.uk|#opensource:matrix.m0aws.co.uk]]
+</box>
+
+==== Inhalt ====
+
+Unten und in der Seitenleiste auf der linken Seite finden Sie eine Liste der Hauptkategorien, die Sie zu den eigentlichen Artikeln führen:
+
+
+<nspages software -h1 -simpleList -textPages="Software" -actualTitle=4>
+
+
+<nspages hardware -h1 -simpleList -textPages="Hardware" -actualTitle=4>
+
+
+<nspages sample_stations -h1 -simpleList -textPages="Sample Stations" -actualTitle=4>
+
+
+=== Ideen für weitere Inhalte ===
+
+  * Sammlungen von Skripten/Funktionen/Code z.B. für Node Red oder GNU Radio
+  * Spiegelung von Homebrew-bezogenen Dokumenten, um sie für die Zukunft zu bewahren
