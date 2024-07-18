@@ -5,11 +5,12 @@ The following is a (growing) list of open source Morse code software (not only) 
 ==== Learning / Improving Morse code ====
 
 <mobiletable>
-^ Project Name                                                      ^ Description                                                                              ^ Language  ^ License     ^ Platform       ^
-| [[http://www.catb.org/~esr/morse/|morse-classic]]                 | Classic command line Morse trainer with QSO generator functionality                      | ?         | ?           | Linux          |
-| [[https://fkurz.net/ham/qrq.html|qrq]]                            | Callsign/word speed trainer with ncurses interface                                       | ?         | GPLv2       | Win/Mac/Linux  |
-| [[https://git.fkurz.net/dj1yfk/lcwo/|LCWO]]                       | Web based Morse course and training tool (hosted version at https://lcwo.net/)           | PHP       | GNU AGPL 3  | Web            |
-| [[https://github.com/cniesen/morsetrainer|Claus' Morse Trainer]]  | Android app to learn morse code by listening.  Use premade wordlist or create your own.  | Java      | GPL-3.0     | Android        |
+^ Project Name                                                      ^ Description                                                                                                                                 ^ Language  ^ License     ^ Platform                                          ^
+| [[http://www.catb.org/~esr/morse/|morse-classic]]                 | Classic command line Morse trainer with QSO generator functionality                                                                         | ?         | ?           | Linux                                             |
+| [[https://fkurz.net/ham/qrq.html|qrq]]                            | Callsign/word speed trainer with ncurses interface                                                                                          | ?         | GPLv2       | Win/Mac/Linux                                     |
+| [[https://git.fkurz.net/dj1yfk/lcwo/|LCWO]]                       | Web based Morse course and training tool (hosted version at https://lcwo.net/)                                                              | PHP       | GNU AGPL 3  | Web                                               |
+| [[https://github.com/cniesen/morsetrainer|Claus' Morse Trainer]]  | Android app to learn morse code by listening.  Use premade wordlist or create your own.                                                     | Java      | GPL-3.0     | Android                                           |
+| [[https://unixcw.sourceforge.net/about.html|unixcw]]              | unixcw is an umbrella project for a Linux library and for few Linux applications related to Morse code. Includes also a morsetutor (xcwcp)  | C         | GPLv2       | Linux (can probably compiled on other platforms)  |
 </mobiletable>
 
 ==== Decoders and encoders ====

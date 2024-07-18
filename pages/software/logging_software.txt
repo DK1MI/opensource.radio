@@ -34,7 +34,9 @@ The following items are just a collection of projects that need proper articles 
 |[[https://tucnak.nagano.cz/wiki/Main_Page|Tucnak]]|Tucnak is a VHF/UHF/SHF logging program for hamradio contests. It supports multi bands, free input, networking, voice and CW keyer, WWL database and much more.|C|?|Linux|
 </mobiletable>
 
+==== Portable logger ====
 
+https://ham2k.com/apps/polo/
 
 ==== Other Logging related Software ====
 
