@@ -3,8 +3,9 @@
 AllStarLink is a network of Amateur Radio repeaters, remote base stations and hot spots accessible to each other via Voice over Internet Protocol. AllStarLink runs on a dedicated computer (including the Rasperry Pi) that you host at your home, radio site or computer center. It is based on the open source Asterisk PBX running our app_rpt application. App_rpt makes Asterisk a powerful system capable of controlling one or more radios. It provides linking of these radio "nodes" to other systems of similar construction anywhere in the world via VoIP. 
 
 
-^ Project Name                                                              ^ Description                                                                                  ^ Language     ^ Licence        ^ Platform           ^
-| [[https://m0aws.co.uk/?p=3244|Build an AllStarLink Node on RaspberryPi]]  | Build an AllStarLink node on a RaspberryPi 3b with SHARI SA818 radio and sound card device.  | Python/BASH  | Public Domain  | RaspberryPi 2/3/4  |
+^ Project Name                                                              ^ Description                                                                                               ^ Language     ^ Licence        ^ Platform              ^
+| [[https://m0aws.co.uk/?p=3244|Build an AllStarLink Node on RaspberryPi]]  | Build an AllStarLink node on a RaspberryPi 3b with SHARI SA818 radio and sound card device.               | Python/BASH  | Public Domain  | RaspberryPi 2/3/4     |
+| [[https://m0aws.co.uk/?p=3395|Automated RaspberryPi/SHARI Node Build]]    | BASH Shell script to build an AllStarLink node using a RaspberryPi 3b and SHARI radio/sound card device.  | BASH         | Public Domain  | RaspberryPi 3b/Linux  |
 
 ===== To Do =====
 
