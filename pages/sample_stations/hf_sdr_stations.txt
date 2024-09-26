@@ -1,4 +1,4 @@
 ====== HF SDR Stations ======
 
 
-nothing here :/
+  * Hermes Lite 2
