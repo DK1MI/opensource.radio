@@ -1,0 +1,18 @@
+QRSS is the ultra-narrowband "semi-digital" mode in ham radio: Very slow Morse code with 3 to 60 seconds dot lengths are sent with low power transmitters and "read" from a slow moving spectrum screen. Further information can be found e.g. at https://qrss.org/
+
+Much of the software typically used both to transmit and receive QRSS is open source:
+
+==== QRSS receiving software ====
+
+<mobiletable>
+^ Project Name                                                      ^ Description                                                                                                                                 ^ Language  ^ License     ^ Platform                                          ^
+| [[https://gitlab.com/hb9fxx/qrsspig|QrssPiG]]                 | Headless QRSS grabber, supports audio and SDR sources, automated uploads, ...   | C++         | GNU GPLv3           | Linux                                             |
+| [[https://qsl.net/pa2ohh/11lop.htm|LOPORA]]                   | GUI QRSS grabber, supports audio and RTLSDR sources   | Python         | ?           | Linux                                             |
+| [[https://www.qsl.net/in3otd/glfer.html|glfer]]               | GUI QRSS grabber, listed for historic reasons only  | C, GTK 2         | GNU GPLv2           | Linux                                             |
+| [[https://swharden.com/software/FSKview/|FSKView]]               | QRSS grabber with WSPR labeling  | C#         | MIT           | Windows                                             |
+</mobiletable>
+
+==== QRSS transmitting software/firmware ====
+
+TODO
+
